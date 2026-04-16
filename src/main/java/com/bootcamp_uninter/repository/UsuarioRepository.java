@@ -1,6 +1,6 @@
 package com.bootcamp_uninter.repository;
 
-import com.uninter.BootCamp.repository.entity.Usuario;
+import com.bootcamp_uninter.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
